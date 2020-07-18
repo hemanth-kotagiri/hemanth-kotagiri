@@ -16,3 +16,5 @@
 <br />
 
 I am currently a Junior Year Computer Science and Engineering student at JNTUH
+
+Passionate Programmer👨‍💻 | Mathematics🎲 | Physics ⚛️| AI 🤖| Pythoneer 🐍 | Bibliophile 📚| Aspiring Polymath 👈| Forever learner📖| Excited Teacher👨‍🏫
