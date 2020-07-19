@@ -18,3 +18,8 @@
 I am currently a Junior Year Computer Science and Engineering student at JNTUH
 
 Passionate Programmer👨‍💻 | Mathematics🎲 | Physics ⚛️| AI 🤖| Pythoneer 🐍 | Bibliophile 📚| Aspiring Polymath 👈| Forever learner📖| Excited Teacher👨‍🏫
+
+### Projects that I am currently working on:
+1. [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
+2. [Breast Cancer Detection](https://github.com/hemanth-kotagiri/breast_cancer_detection)
+3. [ML and DL Models in COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
