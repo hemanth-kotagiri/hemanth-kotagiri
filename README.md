@@ -22,4 +22,4 @@ Passionate Programmer👨‍💻 | Mathematics🎲 | Physics ⚛️| AI 🤖| Py
 ### Projects that I am currently working on:
 1. [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
 2. [Breast Cancer Detection](https://github.com/hemanth-kotagiri/breast_cancer_detection)
-3. [ML and DL Models in COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
+3. [ML and DL Models on COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
