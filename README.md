@@ -9,7 +9,7 @@
 <a href="https://twitter.com/Hemanth043">
   <img align="left" alt="Hemanth Kotagiri - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
-<a href="https://www.facebook.com/hemanth.kotagiri">
+<a href="https://www.facebook.com/hemanth.kotagiri.1/">
   <img align="left" alt="Hemanth Kotagiri - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 <br />
