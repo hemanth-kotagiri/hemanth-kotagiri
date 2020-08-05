@@ -32,6 +32,7 @@ Passionate Programmer👨‍💻 | Mathematics🎲 | Physics ⚛️| AI 🤖| Py
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align = "left" alt = "Python" width="40px" src = https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png />
 <img align = "left" alt = "Scikit-Learn" width="40px" src = https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png />
+<img align = "left" alt = "Pandas" width = "100px" src = "https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
 <img align = "left" alt = "Numpy" width="80" src = https://camo.githubusercontent.com/37d9964b95f38c96ed2cce75182f7ebda4b90f64/68747470733a2f2f676863646e2e7261776769742e6f72672f6e756d70792f6e756d70792f6d61737465722f6272616e64696e672f69636f6e732f7072696d6172792f6e756d70796c6f676f2e737667 />
 <img align = "left" alt = "Matplotlib" width = "100px" src = https://camo.githubusercontent.com/7cc5c1ce50d19bb148f96ffcb9b762201ad5e518/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667 />
 <img align = "left" alt = "Tensorflow" width="40px" src = https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png />
