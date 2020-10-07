@@ -20,22 +20,26 @@ I am currently a Junior Year Computer Science and Engineering student at JNTUH
 Passionate Programmer👨‍💻 | Mathematics🎲 | Physics ⚛️| AI 🤖| Pythoneer 🐍 | Bibliophile 📚| Aspiring Polymath 👈| Forever learner📖| Excited Teacher👨‍🏫
 
 ### Projects that I am currently working on:
+
 1. [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
 2. [Breast Cancer Detection](https://github.com/hemanth-kotagiri/breast_cancer_detection)
 3. [ML and DL Models on COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
 4. [Report Generator](https://github.com/hemanth-kotagiri/report-generator)
 
-
 [![Hemanth's github stats](https://github-readme-stats.vercel.app/api?username=hemanth-kotagiri&theme=gruvbox&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+
+<!-- <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align = "left" alt = "Python" width="40px" src = https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png />
 
-<img align = "left" alt = "Java" width="40px" src = "https://image.flaticon.com/icons/svg/226/226777.svg" />
+<!-- <img align = "left" alt = "Java" width="40px" src = "https://image.flaticon.com/icons/svg/226/226777.svg" />
 <img align = "left" alt = "C" width="40px" src = "https://www.techbaz.org/Course/img/c-logo.png"/>
 <img align = "left" alt = "C++" width="40px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
 
@@ -48,4 +52,4 @@ Passionate Programmer👨‍💻 | Mathematics🎲 | Physics ⚛️| AI 🤖| Py
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
