@@ -4,7 +4,7 @@
   <img align="left" alt="Hemanth Kotagiri - LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
 </a>
 <a href="https://instagram.com/hemanth_43">
-  <img align="left" alt="Hemanth Kotagiri - Instagram" width="22px" src="https://i.olsh.me/icon?size=80..120..200&url=instagram.com"/>
+  <img align="left" alt="Hemanth Kotagiri - Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
 </a>
 <a href="https://twitter.com/Hemanth043">
   <img align="left" alt="Hemanth Kotagiri - Twitter" width="22px" src="https://opendoor.digital/wp-content/uploads/2017/10/favicon-twitter.png"/>
@@ -23,7 +23,6 @@ Passionate Programmer👨‍💻 | Mathematics🎲 | Physics ⚛️| AI 🤖| Py
 1. [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
 2. [Breast Cancer Detection](https://github.com/hemanth-kotagiri/breast_cancer_detection)
 3. [ML and DL Models on COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
-4. [Report Generator](https://github.com/hemanth-kotagiri/report-generator)
 
 [![Hemanth's github stats](https://github-readme-stats.vercel.app/api?username=hemanth-kotagiri&theme=gruvbox&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
