@@ -1,19 +1,19 @@
 # Hello there! 👋
 
-<a href="https://linkedin.com/in/hemanth-kotagiri">
-  <img align="left" alt="Hemanth Kotagiri - LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
+<a style href="https://linkedin.com/in/hemanth-kotagiri" target="_blank">
+<img align="left" alt="Hemanth Kotagiri - LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
 </a>
-<a href="https://hemanth-kotagiri43.medium.com/">
-  <img align="left" alt="Hemanth Kotagiri - Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png"/>
+<a href="https://hemanth-kotagiri43.medium.com/" target="_blank">
+<img align="left" alt="Hemanth Kotagiri - Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png"/>
 </a>
-<a href="https://instagram.com/hemanth_43">
-  <img align="left" alt="Hemanth Kotagiri - Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
+<a href="https://instagram.com/hemanth_43" target="_blank">
+<img align="left" alt="Hemanth Kotagiri - Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
 </a>
-<a href="https://twitter.com/Hemanth043">
-  <img align="left" alt="Hemanth Kotagiri - Twitter" width="22px" src="https://opendoor.digital/wp-content/uploads/2017/10/favicon-twitter.png"/>
+<a href="https://twitter.com/Hemanth043" target="_blank">
+<img align="left" alt="Hemanth Kotagiri - Twitter" width="22px" src="https://opendoor.digital/wp-content/uploads/2017/10/favicon-twitter.png"/>
 </a>
-<a href="https://www.facebook.com/hemanth.kotagiri.1/">
-  <img align="left" alt="Hemanth Kotagiri - Facebook" width="22px" src="https://icons.iconarchive.com/icons/danleech/simple/256/facebook-icon.png" /> </a>
+<a href="https://www.facebook.com/hemanth.kotagiri.1/" target="_blank">
+<img align="left" alt="Hemanth Kotagiri - Facebook" width="22px" src="https://icons.iconarchive.com/icons/danleech/simple/256/facebook-icon.png" /> </a>
 <br />
 <br />
 
@@ -120,4 +120,4 @@ Visitors Count
   />
 </p>
 
-#### I use Arch, By the way. <img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png">
+#### I use Arch, by the way. <img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png">
