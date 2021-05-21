@@ -23,6 +23,7 @@ Passionate Programmer👨‍💻 | Mathematics🎲 | Physics ⚛️| AI 🤖| Py
 1. [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
 2. [Breast Cancer Detection](https://github.com/hemanth-kotagiri/breast_cancer_detection)
 3. [ML and DL Models on COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
+4. [SGPA-Calculator](https://github.com/hemanth-kotagiri/sgpa-calculator)
 
 [![Hemanth's github stats](https://github-readme-stats.vercel.app/api?username=hemanth-kotagiri&theme=gruvbox&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
