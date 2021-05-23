@@ -1,4 +1,3 @@
-<center>
 
 ## Hello there! 👋
 
@@ -34,32 +33,33 @@
 <br />
 <br />
 
-I am currently a Junior Year Computer Science and Engineering student at JNTUH
+<p align="center">I am currently a Junior Year Computer Science and Engineering student at JNTUH</p>
 
-Passionate Programmer👨‍💻 | Mathematics🎲 | Physics ⚛️| AI 🤖| Pythoneer 🐍 | Bibliophile 📚| Aspiring Polymath 👈| Forever learner📖| Excited Teacher👨‍🏫
+<p align="center">Passionate Programmer👨‍💻 | Mathematics🎲 | Physics ⚛️| AI 🤖| Pythoneer 🐍 | Bibliophile 📚| Aspiring Polymath 👈| Forever learner📖| Excited Teacher👨‍🏫</p>
 
-### Projects that I am currently working on:
+<h3 align="center"> Projects that I am currently working on </h3>
 
 1. [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
 2. [Breast Cancer Detection](https://github.com/hemanth-kotagiri/breast_cancer_detection)
 3. [ML and DL Models on COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
 4. [SGPA-Calculator](https://github.com/hemanth-kotagiri/sgpa-calculator)
 
-<p>
+<h3 align="center"> Coding Statistics </h3>
+<p align="center">
     <img width="400" src="https://wakatime.com/share/@hemanth43/b051af11-da3a-4c7e-ba3c-c1ae0beac7d1.svg">
     <img width="400" src="https://wakatime.com/share/@hemanth43/1cb74750-8482-4d57-9641-cda369426345.svg">
     <img width="400" src="https://wakatime.com/share/@hemanth43/9a535dee-d471-4543-a5ca-a92b238755f9.svg">
     <img width="400" src="https://wakatime.com/share/@hemanth43/2ed8c339-9819-4382-8e51-7c57c2f93e74.svg">
+    <img src="https://github-readme-stats.vercel.app/api?username=hemanth-kotagiri&theme=gruvbox&count_private=true&show_icons=true">
 <p>
+    
+<p align="center">
+    Visitors Count <br />
+    <img src="https://profile-counter.glitch.me/{hemanth-kotagiri}/count.svg">
+</p>
 
 
-[![Hemanth's github stats](https://github-readme-stats.vercel.app/api?username=hemanth-kotagiri&theme=gruvbox&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-Visitors Count
-
-![VisitorCount](https://profile-counter.glitch.me/{hemanth-kotagiri}/count.svg)
-
-### Languages and Tools
+<h3 align="center"> Languages and Tools </h3>
 
 <p align="left">
   <img
@@ -150,5 +150,4 @@ Visitors Count
   />
 </p>
 
-#### I use Arch, by the way. <img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png">
-<center>
+<h3 align="center">I use Arch, by the way. <img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png"></h3>
