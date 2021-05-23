@@ -3,23 +3,36 @@
 ## Hello there! 👋
 
 <p align="center">
-<a style href="https://linkedin.com/in/hemanth-kotagiri" target="_blank">
-<img align="left" alt="Hemanth Kotagiri - LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
+    <a style href="https://linkedin.com/in/hemanth-kotagiri" target="_blank">
+    <img align="left" alt="Hemanth Kotagiri - LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://hemanth-kotagiri43.medium.com/" target="_blank">
+    <img align="left" alt="Hemanth Kotagiri - Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png"/>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://instagram.com/hemanth_43" target="_blank">
+    <img align="left" alt="Hemanth Kotagiri - Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
 </a>
-<a href="https://hemanth-kotagiri43.medium.com/" target="_blank">
-<img align="left" alt="Hemanth Kotagiri - Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png"/>
-</a>
-<a href="https://instagram.com/hemanth_43" target="_blank">
-<img align="left" alt="Hemanth Kotagiri - Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
-</a>
+</p>
+
+<p align="center">
 <a href="https://twitter.com/Hemanth043" target="_blank">
 <img align="left" alt="Hemanth Kotagiri - Twitter" width="22px" src="https://opendoor.digital/wp-content/uploads/2017/10/favicon-twitter.png"/>
 </a>
-<a href="https://www.facebook.com/hemanth.kotagiri.1/" target="_blank">
-<img align="left" alt="Hemanth Kotagiri - Facebook" width="22px" src="https://icons.iconarchive.com/icons/danleech/simple/256/facebook-icon.png" /> </a>
+</p>
+
+<p align="center">
+    <a href="https://www.facebook.com/hemanth.kotagiri.1/" target="_blank">
+    <img align="left" alt="Hemanth Kotagiri - Facebook" width="22px" src="https://icons.iconarchive.com/icons/danleech/simple/256/facebook-icon.png" /> </a>
+</p>
+
 <br />
 <br />
-<p>
 
 I am currently a Junior Year Computer Science and Engineering student at JNTUH
 
