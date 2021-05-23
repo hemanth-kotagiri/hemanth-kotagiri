@@ -1,5 +1,8 @@
-# Hello there! 👋
+<center>
 
+## Hello there! 👋
+
+<p align="center">
 <a style href="https://linkedin.com/in/hemanth-kotagiri" target="_blank">
 <img align="left" alt="Hemanth Kotagiri - LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
 </a>
@@ -16,6 +19,7 @@
 <img align="left" alt="Hemanth Kotagiri - Facebook" width="22px" src="https://icons.iconarchive.com/icons/danleech/simple/256/facebook-icon.png" /> </a>
 <br />
 <br />
+<p>
 
 I am currently a Junior Year Computer Science and Engineering student at JNTUH
 
@@ -28,13 +32,21 @@ Passionate Programmer👨‍💻 | Mathematics🎲 | Physics ⚛️| AI 🤖| Py
 3. [ML and DL Models on COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
 4. [SGPA-Calculator](https://github.com/hemanth-kotagiri/sgpa-calculator)
 
+<p>
+    <img width="400" src="https://wakatime.com/share/@hemanth43/b051af11-da3a-4c7e-ba3c-c1ae0beac7d1.svg">
+    <img width="400" src="https://wakatime.com/share/@hemanth43/1cb74750-8482-4d57-9641-cda369426345.svg">
+    <img width="400" src="https://wakatime.com/share/@hemanth43/9a535dee-d471-4543-a5ca-a92b238755f9.svg">
+    <img width="400" src="https://wakatime.com/share/@hemanth43/2ed8c339-9819-4382-8e51-7c57c2f93e74.svg">
+<p>
+
+
 [![Hemanth's github stats](https://github-readme-stats.vercel.app/api?username=hemanth-kotagiri&theme=gruvbox&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Visitors Count
 
 ![VisitorCount](https://profile-counter.glitch.me/{hemanth-kotagiri}/count.svg)
 
-### Languages and Tools:
+### Languages and Tools
 
 <p align="left">
   <img
@@ -56,6 +68,11 @@ Visitors Count
     alt="Flutter"
     width="40"
     src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4"
+  />
+  <img
+    alt="Dart"
+    width="120"
+    src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg"
   />
   <img alt = "Python" width="40px" src =
   https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
@@ -121,3 +138,4 @@ Visitors Count
 </p>
 
 #### I use Arch, by the way. <img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png">
+<center>
