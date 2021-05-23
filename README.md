@@ -46,10 +46,10 @@
 
 <h3 align="center"> Coding Statistics </h3>
 <p align="center">
-    <img width="400" src="https://wakatime.com/share/@hemanth43/b051af11-da3a-4c7e-ba3c-c1ae0beac7d1.svg">
-    <img width="400" src="https://wakatime.com/share/@hemanth43/1cb74750-8482-4d57-9641-cda369426345.svg">
-    <img width="400" src="https://wakatime.com/share/@hemanth43/9a535dee-d471-4543-a5ca-a92b238755f9.svg">
-    <img width="400" src="https://wakatime.com/share/@hemanth43/2ed8c339-9819-4382-8e51-7c57c2f93e74.svg">
+    <img width="400" src="https://wakatime.com/share/@hemanth43/edc9e183-0a63-4177-a65e-a44e8e7f1602.svg">
+    <img width="400" src="https://wakatime.com/share/@hemanth43/f2f7e227-753d-49ba-a3de-a47c2733476e.svg">
+    <img width="400" src="https://wakatime.com/share/@hemanth43/d7317897-9b1c-4a32-aedb-321d84f6fd74.svg">
+    <img width="400" src="https://wakatime.com/share/@hemanth43/62638c24-a0b4-4570-94d8-c589a0ad5a96.svg">
     <img src="https://github-readme-stats.vercel.app/api?username=hemanth-kotagiri&theme=gruvbox&count_private=true&show_icons=true">
 <p>
     
