@@ -1,37 +1,24 @@
 
-## Hello there! 👋
+<p align="center">
+    <h2 align="center"> Hello there! 👋</h2>
+</p>
 
 <p align="center">
     <a style href="https://linkedin.com/in/hemanth-kotagiri" target="_blank">
-    <img align="left" alt="Hemanth Kotagiri - LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
+    <img alt="Hemanth Kotagiri - LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
     </a>
-</p>
-
-<p align="center">
     <a href="https://hemanth-kotagiri43.medium.com/" target="_blank">
-    <img align="left" alt="Hemanth Kotagiri - Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png"/>
+    <img alt="Hemanth Kotagiri - Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png"/>
     </a>
-</p>
-
-<p align="center">
     <a href="https://instagram.com/hemanth_43" target="_blank">
-    <img align="left" alt="Hemanth Kotagiri - Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
-</a>
-</p>
-
-<p align="center">
-<a href="https://twitter.com/Hemanth043" target="_blank">
-<img align="left" alt="Hemanth Kotagiri - Twitter" width="22px" src="https://opendoor.digital/wp-content/uploads/2017/10/favicon-twitter.png"/>
-</a>
-</p>
-
-<p align="center">
+    <img alt="Hemanth Kotagiri - Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
+    </a>
+    <a href="https://twitter.com/Hemanth043" target="_blank">
+    <img alt="Hemanth Kotagiri - Twitter" width="22px" src="https://opendoor.digital/wp-content/uploads/2017/10/favicon-twitter.png"/>
+    </a>
     <a href="https://www.facebook.com/hemanth.kotagiri.1/" target="_blank">
-    <img align="left" alt="Hemanth Kotagiri - Facebook" width="22px" src="https://icons.iconarchive.com/icons/danleech/simple/256/facebook-icon.png" /> </a>
+    <img alt="Hemanth Kotagiri - Facebook" width="22px" src="https://icons.iconarchive.com/icons/danleech/simple/256/facebook-icon.png" /> </a>
 </p>
-
-<br />
-<br />
 
 <p align="center">I am currently a Junior Year Computer Science and Engineering student at JNTUH</p>
 
@@ -47,10 +34,10 @@
 
 <h3 align="center"> Coding Statistics </h3>
 <p align="center">
-    <img width="400" src="https://wakatime.com/share/@hemanth43/edc9e183-0a63-4177-a65e-a44e8e7f1602.svg">
-    <img width="400" src="https://wakatime.com/share/@hemanth43/f2f7e227-753d-49ba-a3de-a47c2733476e.svg">
-    <img width="400" src="https://wakatime.com/share/@hemanth43/d7317897-9b1c-4a32-aedb-321d84f6fd74.svg">
-    <img width="400" src="https://wakatime.com/share/@hemanth43/62638c24-a0b4-4570-94d8-c589a0ad5a96.svg">
+    <img width="400" src="https://wakatime.com/share/@hemanth43/24757253-5dc0-4a16-991a-4af1c7cb921d.svg">
+    <img width="400" src="https://wakatime.com/share/@hemanth43/80d28707-78c4-42c7-a584-282ab21776ae.svg">
+    <img width="400" src="https://wakatime.com/share/@hemanth43/f396d079-16ff-4579-8b81-274c4da10080.svg">
+    <img width="400" src="https://wakatime.com/share/@hemanth43/a42084b5-b8a3-4621-a651-6ebeda712720.svg">
     <img src="https://github-readme-stats.vercel.app/api?username=hemanth-kotagiri&theme=gruvbox&count_private=true&show_icons=true">
 <p>
     
@@ -59,6 +46,9 @@
     <img src="https://profile-counter.glitch.me/{hemanth-kotagiri}/count.svg">
 </p>
 
+<p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=hemanth-kotagiri&theme=redical">
+</p>
 
 <h3 align="center"> Languages and Tools </h3>
 
