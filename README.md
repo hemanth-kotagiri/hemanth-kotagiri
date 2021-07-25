@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=hemanth-kotagiri&theme=redical">
+    <img src="https://githubactivitygraph.herokuapp.com/graph?username=hemanth-kotagiri&theme=redical">
 </p>
 
 <h3 align="center"> Languages and Tools </h3>
