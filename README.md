@@ -141,4 +141,4 @@
   />
 </p>
 
-<h3 align="center">I use Arch, by the way. <img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png"></h3>
+<h3 align="center">I use Arch, by the way. <img width=22 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png"></h3>
