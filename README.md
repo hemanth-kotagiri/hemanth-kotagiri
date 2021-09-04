@@ -1,4 +1,3 @@
-
 <p align="center">
     <h2 align="center"> Hello there! 👋</h2>
 </p>
@@ -26,11 +25,22 @@
 
 <h3 align="center"> Projects that I am currently working on </h3>
 
-1. [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
-2. [Breast Cancer Detection](https://github.com/hemanth-kotagiri/breast_cancer_detection)
-3. [ML and DL Models on COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
-4. [SGPA-Calculator](https://github.com/hemanth-kotagiri/sgpa-calculator)
-5. [Results RESTful API](https://github.com/hemanth-kotagiri/sgpa-rest-api)
+- [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
+- [Breast Cancer Detection](https://github.com/hemanth-kotagiri/breast_cancer_detection)
+- [ML and DL Models on COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
+- [SGPA-Calculator](https://github.com/hemanth-kotagiri/sgpa-calculator)
+- [Results RESTful API](https://github.com/hemanth-kotagiri/sgpa-rest-api)
+
+I write as well, with _alot_ of **Patience**. Some of my published works are:
+
+- [7 Years of Programming | Here's my Story](https://hemanth-kotagiri43.medium.com/7-years-of-programming-heres-my-story-d3dc6c1bf19f)
+- [Learn to use Git & GitHub | Under 10 minutes](https://medium.com/geekculture/learn-to-use-git-github-under-10-minutes-3791188e7c5f)
+- [Machine Learning | Why, and How?](https://hemanth-kotagiri43.medium.com/machine-learning-why-and-how-f528641dae0a)
+- [Gravity | Sounds simple and familiar?](https://hemanth-kotagiri43.medium.com/gravity-sounds-simple-and-familiar-6efa35bcdcdf)
+- [Overfitting and Underfitting](https://medium.com/analytics-vidhya/overfitting-and-underfitting-d04dbd985577)
+- [Let's the fundamentals of classifying Cancer](https://hemanth-kotagiri43.medium.com/lets-learn-the-fundamentals-of-classifying-cancer-logistic-regression-20a1dd24e570)
+- [At what price should you sell your home? - Multivariate Linear Regression](https://medium.com/mlearning-ai/at-what-price-should-you-sell-your-home-multivariate-linear-regression-a6824ec172b1)
+- [Introduction to Machine Learning](https://hemanth-kotagiri43.medium.com/introduction-to-machine-learning-30a50cdec18e)
 
 <h3 align="center"> Coding Statistics </h3>
 <p align="center">
@@ -40,7 +50,6 @@
     <img width="400" src="https://wakatime.com/share/@hemanth43/a42084b5-b8a3-4621-a651-6ebeda712720.svg">
     <img src="https://github-readme-stats.vercel.app/api?username=hemanth-kotagiri&theme=gruvbox&count_private=true&show_icons=true">
 <p>
-    
 <p align="center">
     Visitors Count <br />
     <img src="https://profile-counter.glitch.me/{hemanth-kotagiri}/count.svg">
@@ -141,4 +150,4 @@
   />
 </p>
 
-<h3 align="center">I use Arch, by the way. <img width=22 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png"></h3>
+<h3 align="center">I use Arch, by the way. <img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png"></h3>
