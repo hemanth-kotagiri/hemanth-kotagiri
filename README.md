@@ -19,11 +19,11 @@
     <img alt="Hemanth Kotagiri - Facebook" width="22px" src="https://icons.iconarchive.com/icons/danleech/simple/256/facebook-icon.png" /> </a>
 </p>
 
-<p align="center">I am currently a Senior Year Computer Science and Engineering Undergrad student at JNTUH</p>
+<p align="center">I am currently a Junior Year Computer Science and Engineering student at JNTUH</p>
 
 <p align="center">Passionate Programmer👨‍💻 | Mathematics🎲 | Physics ⚛️| AI 🤖| Pythoneer 🐍 | Bibliophile 📚| Aspiring Polymath 👈| Forever learner📖| Excited Teacher👨‍🏫</p>
 
-<h3 align="center"> Projects that I am currently working on </h3>
+<p> Projects that I am currently working on </p>
 
 - [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
 - [Breast Cancer Detection](https://github.com/hemanth-kotagiri/breast_cancer_detection)
@@ -31,7 +31,9 @@
 - [SGPA-Calculator](https://github.com/hemanth-kotagiri/sgpa-calculator)
 - [Results RESTful API](https://github.com/hemanth-kotagiri/sgpa-rest-api)
 
-I write as well, with _alot_ of **Patience**. Some of my published works are:
+<p>
+I write as well, with <i>alot</i> of <b>Patience</b>. Some of my published works are:
+</p>
 
 - [7 Years of Programming | Here's my Story](https://hemanth-kotagiri43.medium.com/7-years-of-programming-heres-my-story-d3dc6c1bf19f)
 - [Learn to use Git & GitHub | Under 10 minutes](https://medium.com/geekculture/learn-to-use-git-github-under-10-minutes-3791188e7c5f)
