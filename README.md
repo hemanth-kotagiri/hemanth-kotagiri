@@ -35,6 +35,7 @@
 I write as well, with <i>alot</i> of <b>Patience</b>. Some of my published works are:
 </p>
 
+- [Introduction to Neural Networks](https://hemanth-kotagiri43.medium.com/introduction-to-neural-networks-b707750018ad)
 - [7 Years of Programming | Here's my Story](https://hemanth-kotagiri43.medium.com/7-years-of-programming-heres-my-story-d3dc6c1bf19f)
 - [Learn to use Git & GitHub | Under 10 minutes](https://medium.com/geekculture/learn-to-use-git-github-under-10-minutes-3791188e7c5f)
 - [Machine Learning | Why, and How?](https://hemanth-kotagiri43.medium.com/machine-learning-why-and-how-f528641dae0a)
