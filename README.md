@@ -19,7 +19,7 @@
     <img alt="Hemanth Kotagiri - Facebook" width="22px" src="https://icons.iconarchive.com/icons/danleech/simple/256/facebook-icon.png" /> </a>
 </p>
 
-<p align="center">I am currently a Junior Year Computer Science and Engineering student at JNTUH</p>
+<p align="center">I am currently a Senior Year Computer Science and Engineering Undergraduate student at JNTUH</p>
 
 <p align="center">Passionate Programmer👨‍💻 | Mathematics🎲 | Physics ⚛️| AI 🤖| Pythoneer 🐍 | Bibliophile 📚| Aspiring Polymath 👈| Forever learner📖| Excited Teacher👨‍🏫</p>
 
