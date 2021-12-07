@@ -25,10 +25,13 @@
 
 <p> Projects that I am currently working on </p>
 
-- [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
 - [Breast Cancer Detection](https://github.com/hemanth-kotagiri/breast_cancer_detection)
 - [ML and DL Models on COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
 - [SGPA-Calculator](https://github.com/hemanth-kotagiri/sgpa-calculator)
+- [Results RESTful API](https://github.com/hemanth-kotagiri/sgpa-rest-api)
+
+<p>Deployed Projects</p>
+- [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
 - [Results RESTful API](https://github.com/hemanth-kotagiri/sgpa-rest-api)
 
 <p>
