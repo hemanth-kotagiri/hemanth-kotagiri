@@ -31,6 +31,7 @@
 - [Results RESTful API](https://github.com/hemanth-kotagiri/sgpa-rest-api)
 
 <p>Deployed Projects</p>
+
 - [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
 - [Results RESTful API](https://github.com/hemanth-kotagiri/sgpa-rest-api)
 
