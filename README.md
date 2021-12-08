@@ -34,6 +34,7 @@
 
 - [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
 - [Results RESTful API](https://github.com/hemanth-kotagiri/sgpa-rest-api)
+- [COVID-19 Dashboard](https://covid-india-dash-board.herokuapp.com/)
 
 <p>
 I write as well, with <i>alot</i> of <b>Patience</b>. Some of my published works are:
