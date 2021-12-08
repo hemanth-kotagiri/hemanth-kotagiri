@@ -105,8 +105,8 @@ I write as well, with <i>alot</i> of <b>Patience</b>. Some of my published works
   />
   <img
     alt="Java"
-    width="40px"
-    src="https://image.flaticon.com/icons/svg/226/226777.svg"
+    width="30px"
+    src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png"
   />
   <img
     alt="C"
@@ -128,8 +128,8 @@ I write as well, with <i>alot</i> of <b>Patience</b>. Some of my published works
     width="100px"
     src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"
   />
-  <img alt = "Numpy" width="40px" src =
-  https://numpy.org/images/logos/numpy.svg> <img alt = "Matplotlib" width =
+  <img alt = "Numpy" width="90px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/220px-NumPy_logo_2020.svg.png">
+  <img alt = "Matplotlib" width =
   "100px" src =
   https://camo.githubusercontent.com/7cc5c1ce50d19bb148f96ffcb9b762201ad5e518/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667
   />
