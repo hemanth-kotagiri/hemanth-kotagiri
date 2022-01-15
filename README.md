@@ -25,12 +25,13 @@
 
 <p> Projects that I am currently working on </p>
 
-- [SGPA-Calculator](https://github.com/hemanth-kotagiri/sgpa-calculator)
-- [Results RESTful API](https://github.com/hemanth-kotagiri/sgpa-rest-api)
+- [Student Fee Details RESTful API](https://github.com/hemanth-kotagiri/clg-api)
 - [ML and DL Models on COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
 
-<p>Deployed Projects</p>
+<p>Deployed Projects & Maintained</p>
 
+- [Results RESTful API](https://github.com/hemanth-kotagiri/sgpa-rest-api)
+- [SGPA-Calculator](https://github.com/hemanth-kotagiri/sgpa-calculator)
 - [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
 - [Breast Cancer Detection](https://github.com/hemanth-kotagiri/breast_cancer_detection)
 - [Results RESTful API](https://github.com/hemanth-kotagiri/sgpa-rest-api)
