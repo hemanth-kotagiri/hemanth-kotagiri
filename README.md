@@ -28,7 +28,7 @@
 - [Student Fee Details RESTful API](https://github.com/hemanth-kotagiri/clg-api)
 - [ML and DL Models on COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
 
-<p>Deployed Projects & Maintained</p>
+<p>Deployed & Maintained Projects</p>
 
 - [Results RESTful API](https://github.com/hemanth-kotagiri/sgpa-rest-api)
 - [SGPA-Calculator](https://github.com/hemanth-kotagiri/sgpa-calculator)
