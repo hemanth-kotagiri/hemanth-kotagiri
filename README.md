@@ -99,7 +99,7 @@ I write as well, with <i>alot</i> of <b>Patience</b>. Some of my published works
   <img
     alt="Dart"
     width="120"
-    src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/220px-Dart_programming_language_logo.svg.png"
   />
   <img alt = "Python" width="40px" src =
   https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
