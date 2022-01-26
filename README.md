@@ -25,6 +25,7 @@
 
 <p> Projects that I am currently working on </p>
 
+- JNTUH Results Statistics
 - [Student Fee Details RESTful API](https://github.com/hemanth-kotagiri/clg-api)
 - [ML and DL Models on COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
 
@@ -51,7 +52,7 @@ I write as well, with <i>alot</i> of <b>Patience</b>. Some of my published works
 - [At what price should you sell your home? - Multivariate Linear Regression](https://medium.com/mlearning-ai/at-what-price-should-you-sell-your-home-multivariate-linear-regression-a6824ec172b1)
 - [Introduction to Machine Learning](https://hemanth-kotagiri43.medium.com/introduction-to-machine-learning-30a50cdec18e)
 
-<h3 align="center"> Coding Statistics </h3>
+<h3 align="center"> Developer Statistics </h3>
 <p align="center">
   <a target="_blank" href="https://wakatime.com/@b7310673-8836-4be4-94e5-219b9fe9f34f">
     <img src="https://wakatime.com/badge/user/b7310673-8836-4be4-94e5-219b9fe9f34f.svg" alt="Total time coded since May 21 2021" />
@@ -163,5 +164,7 @@ I write as well, with <i>alot</i> of <b>Patience</b>. Some of my published works
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
   />
 </p>
-
-<h3 align="center">I use Arch, by the way. <img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png"></h3>
+<p align="center">
+<img  width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png">
+<h4 align="center" >I use Arch, btw.</h4>
+</p>
