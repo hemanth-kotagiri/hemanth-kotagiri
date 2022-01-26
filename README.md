@@ -93,6 +93,11 @@ I write as well, with <i>alot</i> of <b>Patience</b>. Some of my published works
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
   />
   <img
+    alt="TypeScript"
+    width="40px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
+  />
+  <img
     alt="Flutter"
     width="40"
     src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4"
