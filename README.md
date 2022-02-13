@@ -25,7 +25,7 @@
 
 <p> Projects that I am currently working on </p>
 
-- JNTUH Results Statistics
+- [JNTUH Results Statistics](https://jntuh-results-stats.vercel.app/)
 - [Student Fee Details RESTful API](https://github.com/hemanth-kotagiri/clg-api)
 - [ML and DL Models on COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
 
