@@ -35,7 +35,6 @@
 - [SGPA-Calculator](https://github.com/hemanth-kotagiri/sgpa-calculator)
 - [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
 - [Breast Cancer Detection](https://github.com/hemanth-kotagiri/breast_cancer_detection)
-- [Results RESTful API](https://github.com/hemanth-kotagiri/sgpa-rest-api)
 - [COVID-19 Dashboard](https://covid-india-dash-board.herokuapp.com/)
 
 <p>
