@@ -25,12 +25,12 @@
 
 <p> Projects that I am currently working on </p>
 
-- [JNTUH Results Statistics](https://jntuh-results-stats.vercel.app/)
 - [Student Fee Details RESTful API](https://github.com/hemanth-kotagiri/clg-api)
 - [ML and DL Models on COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
 
 <p>Deployed & Maintained Projects</p>
 
+- [JNTUH Results Statistics](https://jntuh-results-stats.vercel.app/)
 - [Results RESTful API](https://github.com/hemanth-kotagiri/sgpa-rest-api)
 - [SGPA-Calculator](https://github.com/hemanth-kotagiri/sgpa-calculator)
 - [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
