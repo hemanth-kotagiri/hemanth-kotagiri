@@ -92,6 +92,10 @@ I write as well, with <i>alot</i> of <b>Patience</b>. Some of my published works
     width="40px"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
   />
+<img width="50px" src="https://raw.githubusercontent.com/Neikan/Neikan/master/img/icons/NextJS.svg">
+<img width="50px" src="https://raw.githubusercontent.com/Neikan/Neikan/master/img/icons/React.svg">
+<img width="50px" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4">
+<img width="50px" src="https://www.chartjs.org/img/chartjs-logo.svg">
   <img
     alt="TypeScript"
     width="40px"
