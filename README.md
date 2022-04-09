@@ -23,11 +23,6 @@
 
 <p align="center">Passionate Programmer👨‍💻 | Mathematics🎲 | Physics ⚛️| AI 🤖| Pythoneer 🐍 | Bibliophile 📚| Aspiring Polymath 👈| Forever learner📖| Excited Teacher👨‍🏫</p>
 
-<p> Projects that I am currently working on </p>
-
-- [Student Fee Details RESTful API](https://github.com/hemanth-kotagiri/clg-api)
-- [ML and DL Models on COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
-
 <p>Deployed & Maintained Projects</p>
 
 - [JNTUH Results Statistics](https://jntuh-results-stats.vercel.app/)
@@ -36,6 +31,12 @@
 - [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
 - [Breast Cancer Detection](https://github.com/hemanth-kotagiri/breast_cancer_detection)
 - [COVID-19 Dashboard](https://covid-india-dash-board.herokuapp.com/)
+
+<p> Projects that I am currently working on </p>
+
+- [Student Fee Details RESTful API](https://github.com/hemanth-kotagiri/clg-api)
+- [ML and DL Models on COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
+
 
 <p>
 I write as well, with <i>alot</i> of <b>Patience</b>. Some of my published works are:
