@@ -5,11 +5,11 @@
 My name is Hemanth and I am a Full Stack Developer who is comfortable working with building stuff for the web, mobile as well as have rich experience working and creating data driven applications. I am a curious dude who happens to learn anything that I find interesting. Some of my interests include Philosophy, Mathematics, Neuroscience, Poetry, Art, History, Writing, Engineering, and ofcourse, Computer Science. Currently, I freelance on the below services, maintain an [ Open Source Organization ](https://github.com/jntuh-results-services) and also, I am [open to work full time!](https://www.linkedin.com/in/hemanth-kotagiri/)
 Please visit my [ website ](https://hemanthk.me) to learn more about me.
 
-| Service                        | Tech Stack                                                          |
-| ------------------------------ | ------------------------------------------------------------------- |
-| Full Stack Web Applications    | React/Next.js + TailwindCSS, Django/Flask / Express.js/tRPC + Redis |
-| Full Stack Mobile Applications | Flutter(Android + iOS) + Django/Flask/Express.js                    |
-| Data Applications              | Tensorflow/Scikit-Learn/Pytorch                                     |
+| Service                        | Tech Stack                                                                           |
+| ------------------------------ | ------------------------------------------------------------------------------------ |
+| Full Stack Web Applications    | React/Next.js + TailwindCSS, Django/Flask / Express.js/tRPC + Redis/MongoDB/Postgres |
+| Full Stack Mobile Applications | Flutter(Android + iOS) + Django/Flask/Express.js                                     |
+| Data Applications              | Tensorflow/Scikit-Learn/Pytorch                                                      |
 
 **Deployed & Maintained Projects**
 
