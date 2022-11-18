@@ -1,42 +1,118 @@
 <p align="center">
-    <h2 align="center"> Hello there! 👋</h2>
+    <h2 align="center"> Hi there.</h2>
 </p>
 
-<p align="center">
-    <a style href="https://linkedin.com/in/hemanth-kotagiri" target="_blank">
-    <img alt="Hemanth Kotagiri - LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
-    </a>
-    <a href="https://hemanth-kotagiri43.medium.com/" target="_blank">
-    <img alt="Hemanth Kotagiri - Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png"/>
-    </a>
-    <a href="https://instagram.com/hemanth_43" target="_blank">
-    <img alt="Hemanth Kotagiri - Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
-    </a>
-    <a href="https://twitter.com/Hemanth043" target="_blank">
-    <img alt="Hemanth Kotagiri - Twitter" width="22px" src="https://opendoor.digital/wp-content/uploads/2017/10/favicon-twitter.png"/>
-    </a>
-    <a href="https://www.facebook.com/hemanth.kotagiri.1/" target="_blank">
-    <img alt="Hemanth Kotagiri - Facebook" width="22px" src="https://icons.iconarchive.com/icons/danleech/simple/256/facebook-icon.png" /> </a>
-</p>
+My name is Hemanth and I am a Full Stack Developer who is comfortable working with building stuff for the web, mobile as well as have rich experience working and creating data driven applications. I am a curious dude who happens to learn anything that I find interesting. Some of my interests include Philosophy, Mathematics, Neuroscience, Poetry, Art, History, Writing, Engineering, and ofcourse, Computer Science. Currently, I freelance on the below services, maintain an [ Open Source Organization ](https://github.com/jntuh-results-services) and also, I am [open to work full time!](https://www.linkedin.com/in/hemanth-kotagiri/)
+Please visit my [ website ](https://hemanthk.me) to learn more about me.
 
-<p align="center">I am currently a Senior Year Computer Science and Engineering Undergraduate student at JNTUH</p>
+| Service                        | Tech Stack                                                          |
+| ------------------------------ | ------------------------------------------------------------------- |
+| Full Stack Web Applications    | React/Next.js + TailwindCSS, Django/Flask / Express.js/tRPC + Redis |
+| Full Stack Mobile Applications | Flutter(Android + iOS) + Django/Flask/Express.js                    |
+| Data Applications              | Tensorflow/Scikit-Learn/Pytorch                                     |
 
-<p align="center">Passionate Programmer👨‍💻 | Mathematics🎲 | Physics ⚛️| AI 🤖| Pythoneer 🐍 | Bibliophile 📚| Aspiring Polymath 👈| Forever learner📖| Excited Teacher👨‍🏫</p>
+**Deployed & Maintained Projects**
 
-<p>Deployed & Maintained Projects</p>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Tech Stack</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://jntuh-results-stats.vercel.app/"
+        >JNTUH Results Statistics</a
+      >
+    </td>
+    <td>
+      <p align="left">
+        <img
+          width="20px"
+          src="https://raw.githubusercontent.com/Neikan/Neikan/master/img/icons/React.svg"
+        />
+        <img
+          width="20px"
+          src="https://raw.githubusercontent.com/Neikan/Neikan/master/img/icons/NextJS.svg"
+        />
+        <img
+          alt="TypeScript"
+          width="20px"
+          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/hemanth-kotagiri/sgpa-rest-api"
+        >JNTUH Engineering Results REST API</a
+      >
+    </td>
+    <td>
+      <img alt = "Python" width="30px" src =
+      https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+      />
+      <img
+        src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4"
+        width="30px"
+        alt=""
+      />
+      <img
+        src="https://camo.githubusercontent.com/ef586370df1a59b096f5a0766b933533b7a5e5d8ab488707ed8683138ea608e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666c61736b2d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b"
+        alt=""
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/hemanth-kotagiri/sgpa-calculator"
+        >SGPA Calculator</a
+      >
+    </td>
+    <td>
+      <img
+        alt="Flutter"
+        width="20"
+        src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4"
+      />
+      <img
+        width="60"
+        src="https://camo.githubusercontent.com/e24da1959f5e0bf319a5f48863a924d5f5d648f93295dcba095c830118dcc584/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646172742d626c75652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d64617274
+"
+        alt=""
+      />
+    </td>
+  </tr>
 
-- [JNTUH Results Statistics](https://jntuh-results-stats.vercel.app/)
-- [Results RESTful API](https://github.com/hemanth-kotagiri/sgpa-rest-api)
-- [SGPA-Calculator](https://github.com/hemanth-kotagiri/sgpa-calculator)
-- [Brain Tumor Detection](https://github.com/hemanth-kotagiri/brain-tumor-detection)
-- [Breast Cancer Detection](https://github.com/hemanth-kotagiri/breast_cancer_detection)
-- [COVID-19 Dashboard](https://covid-india-dash-board.herokuapp.com/)
-
-<p> Projects that I am currently working on </p>
-
-- [Student Fee Details RESTful API](https://github.com/hemanth-kotagiri/clg-api)
-- [ML and DL Models on COVID-19 data-sets](https://github.com/hemanth-kotagiri/COVID-19)
-
+  <tr>
+    <td>
+      <a href="https://github.com/hemanth-kotagiri/brain-tumor-detection"
+        >Brain Tumor Detection</a
+      >
+    </td>
+    <td>
+      <img alt = "Tensorflow" width="40px" src =
+      https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
+      />
+      <img
+        alt="Numpy"
+        width="90px"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/220px-NumPy_logo_2020.svg.png"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/hemanth-kotagiri/breast_cancer_detection"
+        >Breast Cancer Detection</a
+      >
+    </td>
+    <td>
+      <img alt = "Scikit-Learn" width="40px" src =
+      https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png />
+    </td>
+  </tr>
+</table>
 
 <p>
 I write as well, with <i>alot</i> of <b>Patience</b>. Some of my published works are:
@@ -53,7 +129,8 @@ I write as well, with <i>alot</i> of <b>Patience</b>. Some of my published works
 - [At what price should you sell your home? - Multivariate Linear Regression](https://medium.com/mlearning-ai/at-what-price-should-you-sell-your-home-multivariate-linear-regression-a6824ec172b1)
 - [Introduction to Machine Learning](https://hemanth-kotagiri43.medium.com/introduction-to-machine-learning-30a50cdec18e)
 
-<h3 align="center"> Developer Statistics </h3>
+<details>
+<summary>Developer Statistics</summary>
 <p align="center">
   <a target="_blank" href="https://wakatime.com/@b7310673-8836-4be4-94e5-219b9fe9f34f">
     <img src="https://wakatime.com/badge/user/b7310673-8836-4be4-94e5-219b9fe9f34f.svg" alt="Total time coded since May 21 2021" />
@@ -178,3 +255,4 @@ I write as well, with <i>alot</i> of <b>Patience</b>. Some of my published works
 <img  width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png">
 <h4 align="center" >I use Arch, btw.</h4>
 </p>
+</details>
