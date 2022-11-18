@@ -76,12 +76,11 @@ Please visit my [ website ](https://hemanthk.me) to learn more about me.
         width="20"
         src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4"
       />
-      <img
-        width="60"
-        src="https://camo.githubusercontent.com/e24da1959f5e0bf319a5f48863a924d5f5d648f93295dcba095c830118dcc584/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646172742d626c75652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d64617274
-"
-        alt=""
-      />
+  <img
+    alt="Dart"
+    width="60"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/220px-Dart_programming_language_logo.svg.png"
+  />
     </td>
   </tr>
 
