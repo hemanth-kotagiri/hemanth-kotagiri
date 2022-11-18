@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center"> Hi there.</h2>
+    <h1 align="center"> Hi there.</h1>
 </p>
 
 My name is Hemanth and I am a Full Stack Developer who is comfortable working with building stuff for the web, mobile as well as have rich experience working and creating data driven applications. I am a curious dude who happens to learn anything that I find interesting. Some of my interests include Philosophy, Mathematics, Neuroscience, Poetry, Art, History, Writing, Engineering, and ofcourse, Computer Science. Currently, I freelance on the below services, maintain an [ Open Source Organization ](https://github.com/jntuh-results-services) and also, I am [open to work full time!](https://www.linkedin.com/in/hemanth-kotagiri/)
