@@ -29,16 +29,16 @@ Please visit my [ website ](https://hemanthk.me) to learn more about me.
       <p align="left">
         <img
           width="20px"
-          src="https://raw.githubusercontent.com/Neikan/Neikan/master/img/icons/React.svg"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"
         />
         <img
           width="20px"
-          src="https://raw.githubusercontent.com/Neikan/Neikan/master/img/icons/NextJS.svg"
+          src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67"
         />
         <img
           alt="TypeScript"
           width="20px"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/800px-Typescript.svg.png"
         />
       </p>
     </td>
@@ -51,8 +51,7 @@ Please visit my [ website ](https://hemanthk.me) to learn more about me.
     </td>
     <td>
       <img alt = "Python" width="30px" src =
-      https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
-      />
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png>
       <img
         src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4"
         width="30px"
@@ -92,8 +91,7 @@ Please visit my [ website ](https://hemanthk.me) to learn more about me.
     </td>
     <td>
       <img alt = "Tensorflow" width="40px" src =
-      https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
-      />
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/800px-TensorFlow_logo.svg.png>
       <img
         alt="Numpy"
         width="90px"
