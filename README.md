@@ -9,7 +9,8 @@ anything that I find interesting. Some of my interests include Philosophy,
 Mathematics, Neuroscience, Poetry, Art, History, Writing, Engineering, and
 ofcourse, Computer Science. Currently, I freelance on the below services,
 maintain an [ Open Source Organization
-](https://github.com/jntuh-results-services) Please visit my [ website
+](https://github.com/jntuh-results-services) and I also work fulltime remotely
+at [Louvir](https://louvir.com)! Please visit my [ website
 ](https://hemanth-kotagiri.github.io/) to learn more about me.
 
 | Service/Design                 | Tech Stack                                                               |
