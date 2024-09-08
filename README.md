@@ -29,7 +29,7 @@ at [Louvir](https://louvir.com)! Please visit my [ website
   </tr>
   <tr>
     <td>
-      <a href="https://jntuh-results-stats.vercel.app/"
+      <a href="https://jntuh-results-stats.netlify.app/"
         >JNTUH Results Statistics</a
       >
     </td>
