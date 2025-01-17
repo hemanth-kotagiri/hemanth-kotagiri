@@ -10,8 +10,8 @@ Mathematics, Neuroscience, Poetry, Art, History, Writing, Engineering, and
 ofcourse, Computer Science. Currently, I freelance on the below services,
 maintain an [ Open Source Organization
 ](https://github.com/jntuh-results-services) and I also work fulltime remotely
-at [Louvir](https://louvir.com)! Please visit my [ website
-](https://hemanth-kotagiri.github.io/) to learn more about me.
+as Lead Technical Architect at [Louvir](https://louvir.com)! Please visit my [
+website ](https://hemanth-kotagiri.github.io/) to learn more about me.
 
 | Service/Design                 | Tech Stack                                                               |
 | ------------------------------ | ------------------------------------------------------------------------ |
@@ -19,6 +19,7 @@ at [Louvir](https://louvir.com)! Please visit my [ website
 | Full Stack Mobile Applications | Flutter(Android + iOS) + Django/Flask/Express.js/Nest.js                 |
 | Full Stack Data Applications   | Tensorflow/Scikit-Learn/Pytorch                                          |
 | Database Design                | Redis/MongoDB/Postgres + TypeORM                                         |
+| Cloud                          | AWS                                                                      |
 
 **Deployed & Maintained Projects**
 
@@ -37,16 +38,16 @@ at [Louvir](https://louvir.com)! Please visit my [ website
       <p align="left">
         <img
           width="20px"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"
+          src="https://svgl.app/library/react.svg"
         />
         <img
           width="20px"
-          src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67"
+          src="https://svgl.app/library/nextjs_icon_dark.svg"
         />
         <img
           alt="TypeScript"
           width="20px"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/800px-Typescript.svg.png"
+          src="https://svgl.app/library/typescript.svg"
         />
       </p>
     </td>
@@ -58,16 +59,16 @@ at [Louvir](https://louvir.com)! Please visit my [ website
       >
     </td>
     <td>
-      <img alt = "Python" width="30px" src =
-      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png>
+      <img alt = "Python" width="30px" src ="https://svgl.app/library/python.svg">
       <img
-        src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4"
+        src="https://svgl.app/library/redis.svg"
         width="30px"
         alt=""
       />
       <img
-        src="https://camo.githubusercontent.com/ef586370df1a59b096f5a0766b933533b7a5e5d8ab488707ed8683138ea608e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666c61736b2d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b"
+        src="https://svgl.app/library/flask-light.svg"
         alt=""
+        width="30px"
       />
     </td>
   </tr>
@@ -81,12 +82,12 @@ at [Louvir](https://louvir.com)! Please visit my [ website
       <img
         alt="Flutter"
         width="20"
-        src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4"
+        src="https://svgl.app/library/flutter.svg"
       />
   <img
     alt="Dart"
-    width="60"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/220px-Dart_programming_language_logo.svg.png"
+    width="25"
+    src="https://svgl.app/library/dart.svg"
   />
     </td>
   </tr>
@@ -98,11 +99,10 @@ at [Louvir](https://louvir.com)! Please visit my [ website
       >
     </td>
     <td>
-      <img alt = "Tensorflow" width="40px" src =
-      https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/800px-TensorFlow_logo.svg.png>
+      <img alt = "Tensorflow" width="30px" src = "https://svgl.app/library/tensorflow.svg">
       <img
         alt="Numpy"
-        width="90px"
+        width="70px"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/220px-NumPy_logo_2020.svg.png"
       />
     </td>
